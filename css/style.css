@@ -1,0 +1,39 @@
+/* bg-color: #F6F8F9
+*/
+
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* General */
+body{
+    background-color: #F6F8F9;
+}
+
+
+
+/* Header */
+header{
+    height: 70px;
+    background-color: white;
+    
+}
+header ul li{
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo-container{
+    padding: 10px;
+    margin-left: 10px;
+}
+.logo-text{
+    font-weight: 800;
+    font-size: 35px;
+}
+
+/* Main */
+
