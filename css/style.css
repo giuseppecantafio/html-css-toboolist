@@ -13,13 +13,16 @@
 body{
     background-color: #F6F8F9;
 }
-
+.white-bg{
+    background-color: white;
+}
 
 
 /* Header */
 header{
     height: 70px;
     background-color: white;
+    margin-bottom: 40px;
     
 }
 header ul li{
@@ -36,4 +39,17 @@ header ul li{
 }
 
 /* Main */
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+.buttons{
+    height: 50px;
+    margin-bottom: 2px;
+    border-radius: 2px 2px 0px 0px;
+}
+.main-list{
+    height: 530px;
+    border-radius: 0px 0px 2px 2px;
+}
 
