@@ -85,7 +85,7 @@ header ul li{
     font-size: medium;
     font-weight: 700;
 }
-.t-blue{
+.h-blue{
     font-size: 10px;
     color: white;
     border: 1px solid #45ABEA;
@@ -95,7 +95,7 @@ header ul li{
     padding-left: 5px;
     padding-right: 6px;
 }
-.t-violet{
+.h-violet{
     font-size: 10px;
     color: white;
     border: 1px solid #9C72E4;
@@ -105,7 +105,7 @@ header ul li{
     padding-left: 5px;
     padding-right: 6px;
 }
-.t-green{
+.h-green{
     font-size: 10px;
     color: white;
     border: 1px solid #64C0A9;
@@ -115,7 +115,7 @@ header ul li{
     padding-left: 5px;
     padding-right: 6px;
 }
-.t-orange{
+.h-orange{
     font-size: 10px;
     color: white;
     border: 1px solid #9C72E4;
@@ -125,7 +125,7 @@ header ul li{
     padding-left: 5px;
     padding-right: 6px;
 }
-.t-pink{
+.h-pink{
     font-size: 10px;
     color: white;
     border: 1px solid #D863A1;
@@ -135,7 +135,7 @@ header ul li{
     padding-left: 5px;
     padding-right: 6px;
 }
-.t-yellowgreen{
+.h-yellowgreen{
     font-size: 10px;
     color: white;
     border: 1px solid #B0C926;
