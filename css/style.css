@@ -87,6 +87,9 @@ header ul li{
 }
 .v-mark{
     display: inline-block;
+    font-size: 15px;
+    padding-left: 2px;
+    margin-right: 2px;
     width: 20px;
     height: 20px;
     color: green;
@@ -97,6 +100,9 @@ header ul li{
 }
 .x-mark{
     display: inline-block;
+    font-size: 15px;
+    padding-left: 2px;
+    margin-right: 2px;
     width: 20px;
     height: 20px;
     color: red;
